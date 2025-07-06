@@ -1,0 +1,26 @@
+# Ignore environment files
+.env
+part1/.env
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.env/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Docker
+*.log
+*.pid
+*.sqlite3
+*.db
+.env
+part1/.env

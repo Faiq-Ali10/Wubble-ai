@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain>=0.1.17
+langchain-community
+langchain-core
+python-dotenv
+requests
+httpx
+pydantic
+langchain_groq
+sympy
